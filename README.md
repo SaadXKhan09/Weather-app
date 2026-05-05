@@ -26,5 +26,5 @@ A simple weather application that shows real-time weather data for any city.
    npm run dev
 
 ##  Live link to run my demo project
-weather-ehwl9qhqx-saadxkhan09-3562s-projects.vercel.app
+https://weather-ehwl9qhqx-saadxkhan09-3562s-projects.vercel.app
 
